@@ -6,7 +6,7 @@ function calculateTotalWeight(data) {
       if (type === 'resistance') {
         return total + weight;
       }
-      return total;
+      return 456;
     }, 0);
 
     totals.push(workoutTotal);
