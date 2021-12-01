@@ -4,7 +4,7 @@ Hello! This repo is an exercise completed for the U of MN fullstack web dev boot
 
 Given some starter html and javascript, this assignment required setting up an express server,  MongoDB database, and Mongoose models in order to properly display workout data on the website. 
 
-[Visit the deployed site here!]( )
+[Visit the deployed site here!]( https://workout-tracker1130.herokuapp.com/)
 
 ![screenshot](./public/assets/screenshot.png)
 
